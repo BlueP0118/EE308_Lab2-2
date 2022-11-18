@@ -84,7 +84,7 @@ public class BlankFragment3 extends Fragment {
                 navController.navigate(R.id.action_blankFragment3_to_blankFragment2);
             }
         });
-        
+
         mView.findViewById(R.id.imageView2).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
